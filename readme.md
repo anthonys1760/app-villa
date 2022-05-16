@@ -1,4 +1,4 @@
-# Power Gym Website
+# Appvila Website
 ![title-pic](screens/Medium_Size.png)
 
 AppVilla is a free and premium app Landing Page Template for App, Software, and SaaS Websites. This stunning landing page is created by the latest version of the popular framework Bootstrap 5. AppVilla comes with 7+ different essential pages such as contact, blog pages, pricing plans, etc.
